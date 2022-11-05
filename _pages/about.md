@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd-year Master Student at [Department of Computer Science](http://cs.hust.edu.cn/), Huazhong University of Science and Technology, working on Controllable Text Generation and Topic Dialogue Systems, advised by Prof.[Wei Wei](https://www.eric-weiwei.com/).
+I am a 2nd-year Master Student at [Department of Computer Science](http://cs.hust.edu.cn/), Huazhong University of Science and Technology, working on Controllable Text Generation and Topic Dialogue Systems, advised by Prof. [Wei Wei](https://www.eric-weiwei.com/).
 
 Research Interest
 ======
