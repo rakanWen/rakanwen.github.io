@@ -6,8 +6,7 @@ excerpt: ''
 date: 2022-12-07
 venue: 'EMNLP2022 Findings'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Xiaofei Wen, Wei Wei and Xian-Ling Mao. (2022). &quot;Sequential Topic Selection Model with Latent Variable for Topic-Grounded Dialogue.&quot; <i>EMNLP2022 Findings</i>. 1(1).'
+citation: ''
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
+**Xiaofei Wen**, Wei Wei and Xian-Ling Mao. [Sequential Topic Selection Model with Latent Variable for Topic-Grounded Dialogue](https://arxiv.org/abs/2210.08801), Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022
