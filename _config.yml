@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaofei Wen"
   avatar           : "profile.png"
-  bio              : "M.S Student at HUST Email:xfwen[at]hust[dot]edu[dot]cn"
+  bio              : "M.S Student at HUST Email: xfwen[at]hust[dot]edu[dot]cn"
   location         : "No.1037 Luoyu Road, Wuhan, China"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/RaKan_Wen"
+  twitter          : "RaKan_Wen"
   vine             :
   weibo            :
   xing             :
