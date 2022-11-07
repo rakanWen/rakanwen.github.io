@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Xiaofei Wen"
   avatar           : "profile.png"
-  bio              : "M.S Student at HUST-CS \n\
-                      xfwen[at]hust[dot]edu[dot]cn"
+  bio              : "M.S Student at HUST-CS"
   location         : "No.1037 Luoyu Road, Wuhan, China"
   employer         :
   pubmed           : 
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/rakanWen"
+  github           : "rakanWen"
   google_plus      :
   keybase          :
   instagram        :
