@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2022-12-07
-venue: 'EMNLP2022 Findings'
+venue: 'EMNLP Findings'
 paperurl: 
 ---
 
