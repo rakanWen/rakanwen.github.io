@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd-year Master Student at [Department of Computer Science](http://cs.hust.edu.cn/), Huazhong University of Science and Technology, working on Controllable Text Generation and Topic Dialogue Systems.
+I am a 2nd-year Master Student at [Department of Computer Science](http://cs.hust.edu.cn/), Huazhong University of Science and Technology, working on Controllable Text Generation and Dialogue Systems.
 
 Research Interest
 ======
 My primary research interests lie in the general areas of : Dialogue System and LLMs Generation.
 
-In particular, I'm interested in proactive conversation and controllable text generation. Also, I'm working on LLMs prompting for context-faithful problem.
+Recently, I'm interested in Context-Faithful problems in Dialogue and Large Language Model's known-unknown Hallucinations.
 
 What's News
 ======
