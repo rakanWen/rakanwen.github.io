@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Homepage"
+title: "Xiaofei Wen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
