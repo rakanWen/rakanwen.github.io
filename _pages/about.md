@@ -21,7 +21,7 @@ What's News
 
 2023.6: Start my internship at [Netease Fuxi AI-NLP Lab](https://fuxi.163.com/) !
 
-2023.4.1: Work at Ant Group is accepted by [IJCAI 2023](https://ijcai-23.org/) !
+2023.4.1: Work at Ant Group is accepted by [IJCAI 2023](https://arxiv.org/abs/2305.02575) !
 
 2022.10.6: One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/) !
 
