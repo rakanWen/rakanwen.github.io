@@ -19,7 +19,7 @@ What's News
 ======
 2023.6: Glad to start my summer internship with Prof. [Muhao Chen](https://muhaochen.github.io/) !
 
-2023.6: Start my internship at [Netease Fuxi Ai Lab](https://fuxi.163.com/) !
+2023.6: Start my internship at [Netease Fuxi NLP Lab](https://fuxi.163.com/) !
 
 2023.4.1: Work at Ant Group is accepted by [IJCAI 2023](https://ijcai-23.org/) !
 
