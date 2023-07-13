@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng in Software Engineering, Dalian University of Technology, 2021
+* M.S. in Computer Science, Huazhong University of Science and Technology, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Intern on LLM
+  * Netease Fuxi Ai-nlp Lab
+  * Focus on: Large Language Model Known-Unknown problem solutions
+  * Supervisor: [Rongsheng Zhang](https://scholar.google.com.hk/citations?user=H1VQcLAAAAAJ&hl=zh-CN)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2022: Research Intern 
+  * Ant Group CTO-line
+  * Duties included: Alipay Insurance Interactive Recommendation
+  * Supervisor: [Minghui Yang](https://scholar.google.com/citations?user=vXxMWn8AAAAJ)
   
-Skills
+<!Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3>
 
 Publications
 ======
@@ -42,18 +41,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: ACL22, EMNLP22, CIKM22&23
+* Volunteer: KDD22
+* Vice Chair, Model United Nations (MUN) Association, Dalian University of Technology
