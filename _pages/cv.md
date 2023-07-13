@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Summer 2023: Research Intern on LLM
-  * Netease Fuxi Ai-nlp Lab
+  * Netease Fuxi AI-NLP Lab
   * Focus on: Large Language Model Known-Unknown problem solutions
   * Supervisor: [Rongsheng Zhang](https://scholar.google.com.hk/citations?user=H1VQcLAAAAAJ&hl=zh-CN)
 
