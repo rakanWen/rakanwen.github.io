@@ -14,8 +14,13 @@ Education
 * B.Eng in Software Engineering, Dalian University of Technology, 2021
 * M.S. in Computer Science, Huazhong University of Science and Technology, 2024 (expected)
 
-Work experience
+Experience
 ======
+* Summer 2023: Research Intern
+  * University of Southern California [LUKA Lab](https://luka-group.github.io/)
+  * Focus on: Context-faithful in dialogue
+  * Advisor: [Muhao Chen](https://muhaochen.github.io/)
+
 * Summer 2023: Research Intern on LLM
   * Netease Fuxi AI-NLP Lab
   * Focus on: Large Language Model Known-Unknown problem solutions
