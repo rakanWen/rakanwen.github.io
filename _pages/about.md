@@ -25,4 +25,4 @@ What's News
 
 2022.10.6: One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/) !
 
-2022.9.19: Started my internship at [Ant Group](https://www.antgroup.com/en/) !
+2022.9.19: Start my internship at [Ant Group](https://www.antgroup.com/en/) !
