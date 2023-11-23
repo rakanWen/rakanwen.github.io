@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master Student at [Department of Computer Science](http://cs.hust.edu.cn/), Huazhong University of Science and Technology, working on NLP, Text Generation and Dialogue Systems.
+I am a Master Student at Department of Computer Science, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), working on Natural Language Processing, especially for Dialogue Systems.
 
 Research Interest
 ======
