@@ -18,7 +18,7 @@ Education
 Experience
 ======
 * Summer 2023: Research Intern
-  * University of California，Davis [LUKA Lab](https://luka-group.github.io/)
+  * University of California, Davis [LUKA Lab](https://luka-group.github.io/)
   * Focus on: Contradiction in dialogue for Large Language Models
   * Advisor: [Muhao Chen](https://muhaochen.github.io/)
 
