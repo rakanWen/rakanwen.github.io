@@ -7,17 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master Student at [Department of Computer Science](http://cs.hust.edu.cn/), Huazhong University of Science and Technology, working on Controllable Text Generation and Dialogue Systems.
+I am a Master Student at [Department of Computer Science](http://cs.hust.edu.cn/), Huazhong University of Science and Technology, working on NLP, Text Generation and Dialogue Systems.
 
 Research Interest
 ======
 My primary research interests lie in the general areas of : Dialogue System and LLMs Generation.
 
-Recently, I'm interested in Context-Faithful problems in Dialogue and Large Language Model's known-unknown Hallucinations.
+Recently, I'm interested in Context-Faithful problems in Dialogue and Large Language Model's Hallucinations.
 
 What's News
 ======
-2023.6: Glad to start my summer internship with Prof. [Muhao Chen](https://muhaochen.github.io/) !
+2023.6: Glad to start my internship with Prof. [Muhao Chen](https://muhaochen.github.io/) !
 
 2023.6: Start my internship at [Netease Fuxi AI-NLP Lab](https://fuxi.163.com/) !
 
