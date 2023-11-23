@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng in Software Engineering, Dalian University of Technology, 2021
 * M.S. in Computer Science, Huazhong University of Science and Technology, 2024 (expected)
+* B.E. in Software Engineering, Dalian University of Technology, 2021
+
 
 Experience
 ======
@@ -21,7 +22,7 @@ Experience
   * Focus on: Context-faithful in dialogue
   * Advisor: [Muhao Chen](https://muhaochen.github.io/)
 
-* Summer 2023: Research Intern on LLM
+* Summer 2023: Research Intern
   * Netease Fuxi AI-NLP Lab
   * Focus on: Large Language Model Known-Unknown problem solutions
   * Supervisor: [Rongsheng Zhang](https://scholar.google.com.hk/citations?user=H1VQcLAAAAAJ&hl=zh-CN)
@@ -39,6 +40,6 @@ Publications
 
 Service and leadership
 ======
-* Reviewer: ACL22, EMNLP22, CIKM22&23
-* Volunteer: KDD22
+* Reviewer: ACL23, EMNLP22&23, CIKM23
+* Volunteer: KDD21
 * Vice Chair, Model United Nations (MUN) Association, Dalian University of Technology
