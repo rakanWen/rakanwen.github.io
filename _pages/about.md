@@ -11,7 +11,7 @@ I am a Master Student at Department of Computer Science, [Huazhong University of
 
 Research Interest
 ======
-My primary research interests lie in the general areas of : Dialogue System and LLMs Generation.
+My primary research interests lie in the general areas of : Dialogue System and Text Generation.
 
 Recently, I'm interested in Context-Faithful problems in Dialogue and Large Language Model's Hallucinations.
 
