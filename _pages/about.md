@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master Student at Department of Computer Science, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), working on Natural Language Processing, especially for Dialogue Systems.
+I am a Master Student at Department of Computer Science, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), working on Natural Language Processing, especially for Interactive Dialogue Systems.
 
 Research Interest
 ======
-My primary research interests lie in the general areas of : Dialogue System and Text Generation.
+My research interest lies in Natural Language Processing (NLP) and interactive dialogue systems. I am driven by the aspiration to develop intelligent systems capable of seamless conversations with humans.
 
-Recently, I'm interested in Context-Faithful problems in Dialogue and Large Language Model's Hallucinations.
+Currently I am working on logical inconsistencies and hallucination problems (faithfulness and factualness) that arise in the interaction of large language models with humans.
 
 What's News
 ======
