@@ -13,7 +13,7 @@ Research Interest
 ======
 My research interest lies in Natural Language Processing (NLP) and interactive dialogue systems. I am driven by the aspiration to develop intelligent systems capable of seamless conversations with humans.
 
-Currently I am working on logical inconsistencies and hallucination problems (faithfulness and factualness) that arise in the interaction of large language models with humans.
+Currently I am working on logical inconsistencies and hallucination problems (faithfulness and factualness) that arise in the Human-LLM interaction.
 
 What's News
 ======
