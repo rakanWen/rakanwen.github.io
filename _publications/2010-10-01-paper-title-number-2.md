@@ -3,7 +3,7 @@ title: "Red Teaming Language Models for Contradictory Dialogues"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2023-10-15
+date: 2023-12-15
 paperurl: 
 ---
 
