@@ -6,5 +6,4 @@ date: 2023-10-15
 paperurl: 
 ---
 
-Shixuan Fan, Wei Wei, Xiaofei Wen, Xianling Mao, Jixiong Chen, Danyang Chen, "Personalized Topic Selection Model for Topic-Grounded Dialogue". In Submission. [paper](https://drive.google.com/file/d/1L94pSV-u3w3ZxwhNum7e_h8_d3xUSy2W/view?usp=sharing)
-
+Shixuan Fan, Wei Wei, Xiaofei Wen, Xianling Mao, Jixiong Chen, Danyang Chen, "Personalized Topic Selection Model for Topic-Grounded Dialogue". In Submission.
