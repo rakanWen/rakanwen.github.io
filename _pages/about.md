@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master Student at Department of Computer Science, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), working on Natural Language Processing, especially for Interactive Dialogue Systems.
+I'm an incoming PhD student in Computer Science at [University of California, Davis](https://www.ucdavis.edu/), advised by Prof. [Muhao Chen](https://muhaochen.github.io/).
 
 Research Interest
 ======
@@ -17,8 +17,6 @@ Currently I am working on logical inconsistencies and hallucination problems (fa
 
 What's News
 ======
-2023.6: Glad to start my internship with Prof. [Muhao Chen](https://muhaochen.github.io/) !
-
 2023.6: Start my internship at [Netease Fuxi AI-NLP Lab](https://fuxi.163.com/) !
 
 2023.4.1: Work at Ant Group is accepted by [IJCAI 2023](https://arxiv.org/abs/2305.02575) !
