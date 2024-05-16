@@ -17,10 +17,14 @@ Currently I am working on logical inconsistencies and hallucination problems (fa
 
 What's News
 ======
-2023.6: Start my internship at [Netease Fuxi AI-NLP Lab](https://fuxi.163.com/) !
+2024.05: One paper is accepted by [ACL 2024](https://2024.aclweb.org/)!
 
-2023.4.1: Work at Ant Group is accepted by [IJCAI 2023](https://arxiv.org/abs/2305.02575) !
+2024.04: Glad to join [LUKA Lab](https://luka-group.github.io/)!
 
-2022.10.6: One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/) !
+2023.06: Start my internship at [Netease Fuxi AI-NLP Lab](https://fuxi.163.com/) !
 
-2022.9.19: Start my internship at [Ant Group](https://www.antgroup.com/en/) !
+2023.04: Work at Ant Group is accepted by [IJCAI 2023](https://arxiv.org/abs/2305.02575) !
+
+2022.10: One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/) !
+
+2022.09: Start my internship at [Ant Group](https://www.antgroup.com/en/) !
