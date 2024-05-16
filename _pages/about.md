@@ -19,7 +19,7 @@ What's News
 ======
 2024.05: One paper is accepted by [ACL 2024](https://2024.aclweb.org/)!
 
-2024.04: Glad to join [LUKA Lab](https://luka-group.github.io/)!
+2024.04: Glad to join UCDavis [LUKA Lab](https://luka-group.github.io/)!
 
 2023.06: Start my internship at [Netease Fuxi AI-NLP Lab](https://fuxi.163.com/) !
 
