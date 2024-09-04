@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first-year Ph.D. student in Computer Science at [University of California, Davis](https://www.ucdavis.edu/), advised by Prof. [Muhao Chen](https://muhaochen.github.io/).
+I'm an incoming Ph.D. student in Computer Science at [University of California, Davis](https://www.ucdavis.edu/), advised by Prof. [Muhao Chen](https://muhaochen.github.io/).
 
 Research Interest
 ======
