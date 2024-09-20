@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Huazhong University of Science and Technology, 2024 (expected)
+* M.S. in Computer Science, Huazhong University of Science and Technology, 2024
 * B.E. in Software Engineering, Dalian University of Technology, 2021
 
 
