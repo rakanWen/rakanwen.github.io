@@ -1,5 +1,5 @@
 ---
-title: "Red Teaming Language Models for Contradictory Dialogues"
+title: "Red Teaming Language Models for Processing Contradictory Dialogues"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2023-12-15
