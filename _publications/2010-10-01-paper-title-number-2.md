@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2024-11-12
-venue: 'EMNLP 2024 Main'
+venue: 'EMNLP 2024'
 paperurl: 
 ---
 
