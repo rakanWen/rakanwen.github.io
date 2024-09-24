@@ -22,9 +22,3 @@ What's News
 2024.05: One paper is accepted by [ACL 2024](https://2024.aclweb.org/)!
 
 2024.04: Glad to join UCDavis [LUKA Lab](https://luka-group.github.io/)!
-
-2023.06: Start internship at [Netease Fuxi AI-NLP Lab](https://fuxi.163.com/) !
-
-2023.04: Work at Ant Group is accepted by [IJCAI 2023](https://arxiv.org/abs/2305.02575) !
-
-2022.10: One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/) !
