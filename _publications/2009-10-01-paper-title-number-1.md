@@ -2,7 +2,7 @@
 title: "Sequential Topic Selection Model with Latent Variable for Topic-Grounded Dialogue"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Xiaofei Wen, Wei Wei and Xian-Ling Mao'
+excerpt: '**Xiaofei Wen**, Wei Wei and Xian-Ling Mao'
 date: 2022-12-07
 venue: 'EMNLP 2022 Findings'
 paperurl: 
