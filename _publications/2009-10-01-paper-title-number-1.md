@@ -8,6 +8,6 @@ venue: 'EMNLP 2022 Findings'
 paperurl: 
 ---
 
-[Download paper here](https://aclanthology.org/2022.findings-emnlp.87.pdf)
+[paper](https://aclanthology.org/2022.findings-emnlp.87.pdf)
 
 Citation: Xiao-Fei Wen, Wei Wei, and Xian-Ling Mao. 2022. [Sequential Topic Selection Model with Latent Variable for Topic-Grounded Dialogue](https://aclanthology.org/2022.findings-emnlp.87/). In Findings of the Association for Computational Linguistics: EMNLP 2022, pages 1209–1219, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
