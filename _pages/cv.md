@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, University of California, Davis 2024 -
+* M.S. in Computer Science, Huazhong University of Science and Technology, 2024
+* B.E. in Software Engineering, Dalian University of Technology, 2021
 
 
 Experience
