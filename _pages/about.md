@@ -17,7 +17,7 @@ Currently I am working on logical inconsistencies and hallucination problems (fa
 
 What's News
 ======
-2024.09: One paper is accepted by [EMNLP 2024](https://2024.emnlp.org/)!
+2024.09: My paper "Contradiction Dialogue" is accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 
 2024.05: One paper is accepted by [ACL 2024](https://2024.aclweb.org/)!
 
