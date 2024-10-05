@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of California, Davis 2024 -
+* Ph.D. in Computer Science, University of California, Davis 2024 - Present
 * M.S. in Computer Science, Huazhong University of Science and Technology, 2024
 * B.E. in Software Engineering, Dalian University of Technology, 2021
 
@@ -26,12 +26,12 @@ Experience
 * Summer 2023: Research Intern
   * Netease Fuxi AI-NLP Lab
   * Focus on: Large Language Model Known-Unknown problem solutions
-  * Supervisor: [Rongsheng Zhang](https://scholar.google.com.hk/citations?user=H1VQcLAAAAAJ&hl=zh-CN)
+  * Advisor: [Rongsheng Zhang](https://scholar.google.com.hk/citations?user=H1VQcLAAAAAJ&hl=zh-CN)
 
 * Winter 2022: Research Intern 
   * Ant Group CTO-line
   * Duties included: Alipay Insurance Interactive Recommendation
-  * Supervisor: [Minghui Yang](https://scholar.google.com/citations?user=vXxMWn8AAAAJ)
+  * Advisor: [Minghui Yang](https://scholar.google.com/citations?user=vXxMWn8AAAAJ)
 
 Publications
 ======
@@ -41,6 +41,6 @@ Publications
 
 Service and leadership
 ======
-* Reviewer: ACL23, EMNLP22&23, CIKM23
+* Reviewer: ACL23&24, EMNLP22&23&24, NAACL24
 * Volunteer: KDD21
 * Vice Chair, Model United Nations (MUN) Association, Dalian University of Technology
