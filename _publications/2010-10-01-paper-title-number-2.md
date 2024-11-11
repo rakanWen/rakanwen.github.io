@@ -8,5 +8,5 @@ venue: 'EMNLP 2024'
 paperurl: 
 ---
 
-**Xiaofei Wen**, Bangzheng Li, Tenghao Huang and Muhao Chen, "Red Teaming Language Models for Processing Contradictory Dialogues" In EMNLP 2024. [[paper]](https://arxiv.org/pdf/2405.10128)
+**Xiaofei Wen**, Bangzheng Li, Tenghao Huang, and Muhao Chen. 2024. Red Teaming Language Models for Processing Contradictory Dialogues. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 11611–11630, Miami, Florida, USA. Association for Computational Linguistics. [[paper]](https://aclanthology.org/2024.emnlp-main.648/) [[code]](https://github.com/luka-group/contraDialog)
 
