@@ -8,13 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 Education
 ======
 * Ph.D. in Computer Science, University of California, Davis 2024 - Present
-* M.S. in Computer Science, Huazhong University of Science and Technology, 2024
-* B.E. in Software Engineering, Dalian University of Technology, 2021
 
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Experience
 ======
@@ -33,11 +36,6 @@ Experience
   * Duties included: Alipay Insurance Interactive Recommendation
   * Advisor: [Minghui Yang](https://scholar.google.com/citations?user=vXxMWn8AAAAJ)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Service and leadership
 ======
