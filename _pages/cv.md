@@ -15,9 +15,12 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Red Teaming Language Models for Processing Contradictory Dialogues **(EMNLP 2024)**
+    * **Xiaofei Wen**, Bangzheng Li, Tenghao Huang and Muhao Chen 
+* Personalized Topic Selection Model for Topic-Grounded Dialogue (**ACL 2024** Findings)
+    * Shixuan Fan, Wei Wei, **Xiaofei Wen**, Xian-Ling Mao, Jixiong Chen, and Dangyang Chen 
+* Sequential Topic Selection Model with Latent Variable for Topic-Grounded Dialogue (**EMNLP 2022** Findings)
+    * **Xiaofei Wen**, Wei Wei, and Xian-Ling Mao 
 
 Experience
 ======
