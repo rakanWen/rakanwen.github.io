@@ -42,6 +42,4 @@ Experience
 
 Service and leadership
 ======
-* Reviewer: ACL23&24, EMNLP22&23&24, NAACL24
-* Volunteer: KDD21
-* Vice Chair, Model United Nations (MUN) Association, Dalian University of Technology
+* Reviewer: ACL23&24, EMNLP22&23&24, NAACL24&25
