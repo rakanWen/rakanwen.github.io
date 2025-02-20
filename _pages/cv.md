@@ -15,6 +15,8 @@ Education
 
 Publications
 ======
+* ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails **(Preprint)**
+    * **Xiaofei Wen**, Wenxuan Zhou, Wenjie Jacky Mo and Muhao Chen 
 * Red Teaming Language Models for Processing Contradictory Dialogues **(EMNLP 2024)**
     * **Xiaofei Wen**, Bangzheng Li, Tenghao Huang and Muhao Chen 
 * Personalized Topic Selection Model for Topic-Grounded Dialogue (**ACL 2024** Findings)
