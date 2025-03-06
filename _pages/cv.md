@@ -11,6 +11,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, University of California, Davis 2024 - Present
+* M.S. in Computer Science, Huazhong University of Science and Technology 2021-2024
+* B.Eng. in Software Engineering, Dalian University of Technology 2017-2021
 
 
 Publications
