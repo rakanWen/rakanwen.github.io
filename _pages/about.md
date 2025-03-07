@@ -13,11 +13,11 @@ Research Interest
 ======
 My research interest lies in Natural Language Processing (NLP). I am driven by the aspiration to develop intelligent systems capable of seamless interactions with humans.
 
-Currently I am working on improving reasoning efficiency and enhancing VLM reasoning generalization.
+Currently I am working on improving reasoning efficiency and enhancing reasoning generalization.
 
 What's News
 ======
-2025.02: Check out our latest guardrail paper [ThinkGuard](https://arxiv.org/abs/2502.13458)!
+2025.02: Check our latest guardrail paper [ThinkGuard](https://arxiv.org/abs/2502.13458)!
 
 2024.09: My paper about "Contradictory Dialogue" is accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 
