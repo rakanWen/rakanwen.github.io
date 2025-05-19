@@ -17,7 +17,7 @@ Currently I am working on improving reasoning efficiency and enhancing reasoning
 
 What's News
 ======
-2025.02: Check our latest guardrail paper [ThinkGuard](https://arxiv.org/abs/2502.13458)!
+2025.05: One guardrail paper accepted by [ACL 2025](https://2025.aclweb.org/). Check out [ThinkGuard](https://arxiv.org/abs/2502.13458)!
 
 2024.09: My paper about "Contradictory Dialogue" is accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 
