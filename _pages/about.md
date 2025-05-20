@@ -27,4 +27,4 @@ Currently I am working on improving reasoning efficiency and enhancing reasoning
 
 #### Miscellaneous
 
-- Devoted fan of [The Godfather](https://www.imdb.com/title/tt0068646/), and admirer of [Al Pacino](https://en.wikipedia.org/wiki/Al_Pacino) and [Robert De Niro](https://en.wikipedia.org/wiki/Robert_De_Niro).
+Devoted fan of [The Godfather](https://www.imdb.com/title/tt0068646/), and admirer of [Al Pacino](https://en.wikipedia.org/wiki/Al_Pacino) and [Robert De Niro](https://en.wikipedia.org/wiki/Robert_De_Niro).
