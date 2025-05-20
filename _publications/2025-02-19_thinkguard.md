@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-02-19_thinkguard
 excerpt: '**Xiaofei Wen**, Wenxuan Zhou, Wenjie Jacky Mo and Muhao Chen'
 date: 2025-02-19
-venue: 'Preprints'
+venue: 'ACL 2025 Findings'
 paperurl: 
 ---
 
