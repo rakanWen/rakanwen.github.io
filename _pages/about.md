@@ -25,6 +25,6 @@ Currently I am working on improving reasoning efficiency and enhancing reasoning
 
 2024.04: Glad to join UCDavis [LUKA Lab](https://luka-group.github.io/)!
 
-#### Miscellaneous
+### Miscellaneous
 
-Devoted fan of [The Godfather](https://www.imdb.com/title/tt0068646/), and admirer of [Al Pacino](https://en.wikipedia.org/wiki/Al_Pacino) and [Robert De Niro](https://en.wikipedia.org/wiki/Robert_De_Niro).
+I'm a devoted fan of [The Godfather](https://www.imdb.com/title/tt0068646/), and admirer of [Al Pacino](https://en.wikipedia.org/wiki/Al_Pacino) and [Robert De Niro](https://en.wikipedia.org/wiki/Robert_De_Niro).
