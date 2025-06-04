@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaofei Wen"
+title: "Xiaofei Wen 温笑非"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,14 +16,15 @@ My research interest lies in Natural Language Processing (NLP). I am driven by t
 Currently I am working on improving reasoning efficiency and enhancing reasoning generalization.
 
 ### What's News
+- **[May, 2025]**: Check our new paper of Modality Interference! [paper](https://arxiv.org/abs/2505.19616)
+  
+- **[May, 2025]**: One guardrail paper accepted by [ACL 2025](https://2025.aclweb.org/). Check out [ThinkGuard](https://arxiv.org/abs/2502.13458)!
 
-2025.05: One guardrail paper accepted by [ACL 2025](https://2025.aclweb.org/). Check out [ThinkGuard](https://arxiv.org/abs/2502.13458)!
+- **[Sep, 2024]**: My paper about "Contradictory Dialogue" is accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 
-2024.09: My paper about "Contradictory Dialogue" is accepted by [EMNLP 2024](https://2024.emnlp.org/)!
+- **[May, 2024]**: One paper is accepted by [ACL 2024](https://2024.aclweb.org/)!
 
-2024.05: One paper is accepted by [ACL 2024](https://2024.aclweb.org/)!
-
-2024.04: Glad to join UCDavis [LUKA Lab](https://luka-group.github.io/)!
+- **[Apr, 2025]**: Glad to join UCDavis [LUKA Lab](https://luka-group.github.io/)!
 
 ### Miscellaneous
 
