@@ -18,9 +18,9 @@ Currently I am working on improving language model reasoning efficiency and enha
 ### What's News
 - **[May, 2025]**: Check our new paper of **Modality Interference**! [paper](https://arxiv.org/abs/2505.19616)
   
-- **[May, 2025]**: One **guardrail** paper accepted by [ACL 2025](https://2025.aclweb.org/). Check out [ThinkGuard](https://arxiv.org/abs/2502.13458)!
+- **[May, 2025]**: Our **guardrail** paper is accepted by [ACL 2025](https://2025.aclweb.org/). Check out [ThinkGuard](https://arxiv.org/abs/2502.13458)!
 
-- **[Sep, 2024]**: My paper about **Contradictory Dialogue** is accepted by [EMNLP 2024](https://2024.emnlp.org/)!
+- **[Sep, 2024]**: Our **Contradictory Dialogue** paper is accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 
 - **[May, 2024]**: One paper is accepted by [ACL 2024](https://2024.aclweb.org/)!
 
