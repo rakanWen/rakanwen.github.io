@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaofei Wen 温笑非"
+title: "Xiaofei Wen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
