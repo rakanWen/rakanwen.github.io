@@ -8,6 +8,102 @@
   
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
 	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+
+  <!-- Internship styles are scoped to preserve the existing Jon Barron layout. -->
+  <style>
+    .internship-section {
+      padding: 20px;
+    }
+    .internship-section h2 {
+      margin: 0 0 18px;
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 24px;
+      font-weight: 400;
+    }
+    .internship-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    .internship-item {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      padding: 8px 0;
+    }
+    .internship-item + .internship-item {
+      margin-top: 16px;
+      padding-top: 24px;
+      border-top: 1px solid #e8e8e8;
+    }
+    .internship-logo {
+      display: flex;
+      flex: 0 0 160px;
+      align-items: center;
+      justify-content: center;
+      min-height: 80px;
+    }
+    .internship-logo img {
+      display: block;
+      width: 160px;
+      height: 64px;
+      object-fit: contain;
+    }
+    .internship-logo img.internship-logo-codedroid {
+      width: 80px;
+      height: 80px;
+    }
+    .internship-logo [hidden] {
+      display: none;
+    }
+    .internship-logo-fallback {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 23px;
+      font-weight: 700;
+      color: #333;
+    }
+    .internship-details {
+      min-width: 0;
+    }
+    .internship-company {
+      margin: 0 0 5px;
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+    .internship-role {
+      margin: 0 0 5px;
+      font-weight: 700;
+      line-height: 1.4;
+    }
+    .internship-meta {
+      margin: 0;
+      color: #555;
+      line-height: 1.5;
+    }
+    @media (max-width: 520px) {
+      .internship-item {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+      }
+      .internship-logo {
+        flex-basis: auto;
+        min-height: 0;
+        justify-content: flex-start;
+      }
+      .internship-logo img {
+        width: 140px;
+        height: 52px;
+        object-position: left center;
+      }
+      .internship-logo img.internship-logo-codedroid {
+        width: 64px;
+        height: 64px;
+      }
+    }
+  </style>
 </head>
 
 <body>
@@ -107,6 +203,39 @@
   </tr>
 </table>
 
+
+        <!-- Internship Experience: between News and Publications. -->
+        <section class="internship-section" aria-labelledby="internship-heading">
+          <h2 id="internship-heading">Internship Experience</h2>
+          <ul class="internship-list">
+            <li class="internship-item">
+              <div class="internship-logo">
+                <!-- Upload the official logo to images/amazon.png. -->
+                <img src="images/amazon.png" alt="Amazon logo" width="160" height="64"
+                     onerror="this.hidden = true; this.nextElementSibling.hidden = false;">
+                <span class="internship-logo-fallback" hidden aria-hidden="true">Amazon</span>
+              </div>
+              <div class="internship-details">
+                <h3 class="internship-company">Amazon Alexa</h3>
+                <p class="internship-role">Applied Scientist Intern</p>
+                <p class="internship-meta">Bellevue, WA &middot; <time datetime="2026">Summer 2026</time></p>
+              </div>
+            </li>
+            <li class="internship-item">
+              <div class="internship-logo">
+                <!-- Upload the official logo to images/codedroid.png. -->
+                <img class="internship-logo-codedroid" src="images/codedroid.png" alt="Codedroid logo" width="80" height="80"
+                     onerror="this.hidden = true; this.nextElementSibling.hidden = false;">
+                <span class="internship-logo-fallback" hidden aria-hidden="true">Codedroid</span>
+              </div>
+              <div class="internship-details">
+                <h3 class="internship-company">Codedroid</h3>
+                <p class="internship-role">Research Intern</p>
+                <p class="internship-meta">Milpitas, CA &middot; <time datetime="2025">Summer 2025</time></p>
+              </div>
+            </li>
+          </ul>
+        </section>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
@@ -406,25 +535,20 @@
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
   <tbody>
     
+    <!-- Travel is a separate section from professional experience. -->
     <tr>
       <td style="padding-left: 20px; padding-top: 20px; padding-bottom: 5px;">
-        <heading>Experience</heading>
+        <heading>Travel</heading>
       </td>
     </tr>
-
-	<tr>
-  <td style="padding-left: 20px; padding-top: 3px; padding-bottom: 20px;">
-    <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
-      <li><strong>Intern</strong>: Codedroid(2025); Amazon-Alexa(2026)</li>
-      <li style="margin-top: 5px;"><strong>Travel</strong>:
-        <ul style="margin-top: 3px; margin-bottom: 0; padding-left: 15px;">
+    <tr>
+      <td style="padding-left: 20px; padding-top: 3px; padding-bottom: 20px;">
+        <ul style="margin-top: 0; margin-bottom: 0; padding-left: 20px;">
           <li><strong>Asia</strong>: Tokyo, Osaka, Kyoto, Nagoya, Nara, Fujiyoshida; Hong Kong, Macau; Seoul, Daejeon</li>
           <li style="margin-top: 2px;"><strong>U.S.</strong>: California; Washington, D.C; Honolulu & Hilo, HI; Seattle, WA; Bend & Portland, OR; Austin, TX; Miami & Orlando, FL; Atlanta, GA; St. Louis, MO; New York, NY; Princeton, NJ.</li>
         </ul>
-      </li>
-    </ul>
-  </td>
-</tr>
+      </td>
+    </tr>
 
 	<tr>
       <td style="padding-left: 20px; padding-top: 20px; padding-bottom: 5px;">
