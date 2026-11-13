@@ -27,38 +27,36 @@
     }
     .internship-item {
       display: flex;
-      align-items: center;
-      gap: 28px;
-      padding: 8px 0;
+      align-items: flex-start;
+      gap: 22px;
     }
     .internship-item + .internship-item {
-      margin-top: 16px;
-      padding-top: 24px;
-      border-top: 1px solid #e8e8e8;
+      margin-top: 22px;
     }
     .internship-logo {
       display: flex;
-      flex: 0 0 160px;
+      flex: 0 0 126px;
       align-items: center;
       justify-content: center;
-      min-height: 80px;
+      height: 44px;
+      padding-top: 3px;
     }
     .internship-logo img {
       display: block;
-      width: 160px;
-      height: 64px;
+      width: 126px;
+      height: 40px;
       object-fit: contain;
     }
     .internship-logo img.internship-logo-codedroid {
-      width: 80px;
-      height: 80px;
+      width: 44px;
+      height: 44px;
     }
     .internship-logo [hidden] {
       display: none;
     }
     .internship-logo-fallback {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
-      font-size: 23px;
+      font-size: 20px;
       font-weight: 700;
       color: #333;
     }
@@ -66,41 +64,60 @@
       min-width: 0;
     }
     .internship-company {
-      margin: 0 0 5px;
+      margin: 0 0 3px;
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
-      font-size: 20px;
+      font-size: 18px;
       font-weight: 700;
-      line-height: 1.3;
+      line-height: 1.35;
+    }
+    .internship-company a,
+    .internship-team {
+      font: inherit;
+      color: #1772d0;
     }
     .internship-role {
-      margin: 0 0 5px;
+      margin: 0 0 3px;
       font-weight: 700;
       line-height: 1.4;
     }
     .internship-meta {
       margin: 0;
       color: #555;
-      line-height: 1.5;
+      line-height: 1.45;
+    }
+    .internship-advisors {
+      margin: 4px 0 0;
+      font-size: 15px;
+      line-height: 1.45;
+      color: #444;
+    }
+    .internship-advisors a {
+      font-size: inherit;
+    }
+    .internship-section a:hover,
+    .internship-section a:focus-visible {
+      color: #f09228;
+      text-decoration: underline;
     }
     @media (max-width: 520px) {
       .internship-item {
         flex-direction: column;
-        align-items: flex-start;
-        gap: 12px;
+        gap: 9px;
       }
       .internship-logo {
         flex-basis: auto;
-        min-height: 0;
+        height: auto;
+        padding-top: 0;
         justify-content: flex-start;
       }
       .internship-logo img {
-        width: 140px;
-        height: 52px;
+        width: 114px;
+        height: 36px;
         object-position: left center;
       }
       .internship-logo img.internship-logo-codedroid {
-        width: 64px;
-        height: 64px;
+        width: 40px;
+        height: 40px;
       }
     }
   </style>
@@ -211,27 +228,29 @@
             <li class="internship-item">
               <div class="internship-logo">
                 <!-- Upload the official logo to images/amazon.png. -->
-                <img src="images/amazon.png" alt="Amazon logo" width="160" height="64"
+                <img src="images/amazon.png" alt="Amazon logo" width="126" height="40"
                      onerror="this.hidden = true; this.nextElementSibling.hidden = false;">
                 <span class="internship-logo-fallback" hidden aria-hidden="true">Amazon</span>
               </div>
               <div class="internship-details">
-                <h3 class="internship-company">Amazon Alexa</h3>
+                <h3 class="internship-company">Amazon <span class="internship-team">@Alexa</span></h3>
                 <p class="internship-role">Applied Scientist Intern</p>
                 <p class="internship-meta">Bellevue, WA &middot; <time datetime="2026">Summer 2026</time></p>
+                <p class="internship-advisors">Advised by <a href="https://www.linkedin.com/in/xiangli729/">Xiang Li</a> and <a href="https://www.linkedin.com/in/chengyuan-ma-9a34b94/">Chengyuan Ma</a></p>
               </div>
             </li>
             <li class="internship-item">
               <div class="internship-logo">
                 <!-- Upload the official logo to images/codedroid.png. -->
-                <img class="internship-logo-codedroid" src="images/codedroid.png" alt="Codedroid logo" width="80" height="80"
+                <img class="internship-logo-codedroid" src="images/codedroid.png" alt="Codedroid logo" width="44" height="44"
                      onerror="this.hidden = true; this.nextElementSibling.hidden = false;">
                 <span class="internship-logo-fallback" hidden aria-hidden="true">Codedroid</span>
               </div>
               <div class="internship-details">
-                <h3 class="internship-company">Codedroid</h3>
+                <h3 class="internship-company"><a href="https://www.codedroid.com/">Codedroid</a></h3>
                 <p class="internship-role">Research Intern</p>
                 <p class="internship-meta">Milpitas, CA &middot; <time datetime="2025">Summer 2025</time></p>
+                <p class="internship-advisors">Advised by <a href="https://www.linkedin.com/in/huan-ren-6ba0a66/">Huan Ren</a></p>
               </div>
             </li>
           </ul>
